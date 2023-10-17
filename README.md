@@ -10,15 +10,19 @@ The "Personal Finance Manager" is a feature-rich, user-friendly financial manage
 
   Key Features:
   
-      Expense Tracking: Users can easily record their daily expenses by providing a description, amount, and the date of the expense. The application stores this                  information for future reference.
+      Expense Tracking: Users can easily record their daily expenses by providing a description, amount, and the date of the expense. The application stores 
+      this information for future reference.
       
-      Budget Setting: It allows users to set budgets for different spending categories, such as groceries, entertainment, or utilities. Users can specify the budget               category and the allocated amount.
+      Budget Setting: It allows users to set budgets for different spending categories, such as groceries, entertainment, or utilities. Users can specify the budget
+      category and the allocated amount.
       
       Expense Overview: Users can view a summary of their expenses, categorized by date and description. The application provides a clear breakdown of where their money is        going.
       
-      Budget Monitoring: Users can track their budget usage to ensure they stay within their allocated limits for each spending category. The application displays the             remaining budget for each category.
+      Budget Monitoring: Users can track their budget usage to ensure they stay within their allocated limits for each spending category. The application displays the
+      remaining budget for each category.
       
-      Expense Distribution Chart: The application generates an interactive pie chart to visually represent the distribution of expenses by category. This chart provides           users with a quick overview of their spending patterns.
+      Expense Distribution Chart: The application generates an interactive pie chart to visually represent the distribution of expenses by category. This chart provides
+      users with a quick overview of their spending patterns.
       
       User-Friendly Interface: The user interface is designed to be intuitive and easy to navigate, ensuring a smooth user experience.
       
